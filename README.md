@@ -22,8 +22,7 @@ Analyzed machine telemetry data using Tableau to identify unhealthy-event patter
 
 ## Dashboard
 
-![Daikibo Telemetry Dashboard](dashboard.png)
-
+![Daikibo Telemetry Dashboard](Dashboard.png)
 ## Key Metrics
 
 | Metric                 | Result |
