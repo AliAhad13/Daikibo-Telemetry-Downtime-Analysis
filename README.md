@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-Analyzed machine telemetry data using Tableau to identify unhealthy-event patterns across factories and device types. Developed an interactive dashboard to support operational analysis and maintenance prioritization.
+Analyzed machine telemetry data using Tableau to identify unhealthy-event patterns across factories and device types. Developed an interactive Tableau dashboard to identify high-impact factories and device types for further maintenance investigation.
 
 ## Objectives
 
